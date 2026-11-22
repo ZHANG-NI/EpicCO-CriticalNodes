@@ -1,6 +1,6 @@
-# AlphaCO: Critical Node Detection
+# EpicCO: Critical Node Detection
 
-The solver that [AlphaCO](https://github.com/ZHANG-NI/AlphaCO) produced for the critical node detection problem, starting from IRMS (Y. Zhou, J. Li, J.-K. Hao, and F. Glover, INFORMS Journal on Computing, 2024; https://github.com/INFORMSJoC/2022.0130).
+The solver that [EpicCO](https://github.com/ZHANG-NI/EpicCO) produced for the critical node detection problem, starting from IRMS (Y. Zhou, J. Li, J.-K. Hao, and F. Glover, INFORMS Journal on Computing, 2024; https://github.com/INFORMSJoC/2022.0130).
 
 ## Run
 
